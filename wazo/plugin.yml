@@ -1,0 +1,9 @@
+name: moh
+namespace: incrediblepbx
+version: 0.0.1
+author: Ward Mundy
+display_name: Moh sounds
+tags:
+  - incrediblepbx
+  - sounds
+homepage: https://github.com/sboily/incrediblepbx-moh
