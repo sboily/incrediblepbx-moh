@@ -11,6 +11,8 @@ case "$1" in
         ;;
 
     install)
+        chmod 660 /var/lib/asterisk/moh/default/incrediblepbx_reno_project-system.wav
+        chown asterisk.www-data /var/lib/asterisk/moh/default/incrediblepbx_reno_project-system.wav
         ;;
 
     uninstall)
